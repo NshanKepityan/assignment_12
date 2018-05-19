@@ -45,10 +45,8 @@ namespace MathServer
         {
             Console.WriteLine("Udp is running");
 
-            //Creates a UdpClient for reading incoming data.
             this.listener = new UdpClient(11000);
 
-            //the IP Address and port number of the sender. 
             this.RemoteIpEndPoint = new IPEndPoint(IPAddress.Any, 0);
             this.flag = true;
             while (flag)
