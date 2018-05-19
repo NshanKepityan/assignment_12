@@ -1,0 +1,7 @@
+C:\Users\Nshan\source\repos\MathServer\MathServer\obj\Debug\MathServer.csprojResolveAssemblyReference.cache
+C:\Users\Nshan\source\repos\MathServer\MathServer\obj\Debug\MathServer.csproj.CoreCompileInputs.cache
+C:\Users\Nshan\source\repos\MathServer\MathServer\bin\Debug\MathServer.exe.config
+C:\Users\Nshan\source\repos\MathServer\MathServer\bin\Debug\MathServer.exe
+C:\Users\Nshan\source\repos\MathServer\MathServer\bin\Debug\MathServer.pdb
+C:\Users\Nshan\source\repos\MathServer\MathServer\obj\Debug\MathServer.exe
+C:\Users\Nshan\source\repos\MathServer\MathServer\obj\Debug\MathServer.pdb
