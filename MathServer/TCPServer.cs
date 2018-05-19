@@ -46,14 +46,10 @@ namespace MathServer
             Console.WriteLine("The server is running");
             Console.WriteLine("Waiting for a connection.....");
             this.ipAd = IPAddress.Parse("127.0.0.1");
-            // use local m/c IP address, and 
-            // use the same in the client
-
-            /* Initializes the this.listener */
+     
 
             this.listener = new TcpListener(ipAd, 65410);
 
-            /* Start Listeneting at the specified port */
             this.listener.Start();
             this.socket = this.listener.AcceptSocket();
 
